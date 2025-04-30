@@ -1,0 +1,11 @@
+There are 3 cats and 4 dogs.
+Hello World, Happy World
+World
+Python
+color or colour?
+abc, abbc, abbbc
+a1 b2 c3
+cat or dog
+the cat in the Hat
+these are the things
+1the 2The 3the4 5the 6The7
